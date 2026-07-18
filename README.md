@@ -99,7 +99,7 @@ Then follow the lessons in order and run the matching notebooks in Databricks.
 
 * Part 2: [entity-resolution](./docs/03-entity-resolution.md)
 
-* Tutorial video 1: Build Medallion Lakehouse and Entity Resolution
+* Tutorial video 1: [Build Medallion Lakehouse and Entity Resolution](https://img.youtube.com/vi/sBmYFvtvILM/maxresdefault.jpg)
 
 <a href="https://www.youtube.com/watch?v=sBmYFvtvILM">
   <img
@@ -109,7 +109,7 @@ Then follow the lessons in order and run the matching notebooks in Databricks.
   />
 </a>
 
-* Tutorial video 2: RECAP Medallion Lakehouse and Entity Resolution 2
+* Tutorial video 2: [RECAP Medallion Lakehouse and Entity Resolution 2](https://www.youtube.com/watch?v=I2KTkrbMfZ0)
 
 <a href="https://www.youtube.com/watch?v=I2KTkrbMfZ0">
   <img
