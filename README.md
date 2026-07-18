@@ -80,14 +80,31 @@ This tutorial uses:
 9. Match classification and clustering
 10. Golden records, dashboards and search
 
+### Tutorial part 1: Build Medallion Lakehouse and Entity Resolution
+
+<a href="https://www.youtube.com/watch?v=sBmYFvtvILM">
+  <img
+    src="https://img.youtube.com/vi/sBmYFvtvILM/maxresdefault.jpg"
+    alt="Watch the Databricks tutorial"
+    width="400"
+  />
+</a>
+
+### Tutorial part 2: RECAP Medallion Lakehouse and Entity Resolution 2
+
+<a href="https://www.youtube.com/watch?v=I2KTkrbMfZ0">
+  <img
+    src="https://img.youtube.com/vi/I2KTkrbMfZ0/maxresdefault.jpg"
+    alt="Watch the Databricks tutorial"
+    width="400"
+  />
+</a>
+
 ## Repository Structure
 
 ```text
 docs/          Step-by-step tutorial
-notebooks/     Runnable Databricks notebooks
 data/          Synthetic sample datasets
-src/           Reusable source code
-images/        Diagrams and screenshots
 ```
 
 ## Getting Started
