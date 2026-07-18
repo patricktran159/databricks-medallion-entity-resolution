@@ -85,6 +85,7 @@ This tutorial uses:
 ```text
 docs/          Step-by-step tutorial
 data/          Synthetic sample datasets
+src/           Reusable source code
 ```
 
 ## Getting Started
