@@ -80,7 +80,11 @@ This tutorial uses:
 9. Match classification and clustering
 10. Golden records, dashboards and search
 
-### Tutorial part 1: Build Medallion Lakehouse and Entity Resolution
+### Part 1: [medallion-lakehouse](./docs/02-medallion-lakehouse.md)
+
+### Part 2: [entity-resolution](./docs/03-entity-resolution.md)
+
+### Tutorial video 1: Build Medallion Lakehouse and Entity Resolution
 
 <a href="https://www.youtube.com/watch?v=sBmYFvtvILM">
   <img
@@ -90,7 +94,7 @@ This tutorial uses:
   />
 </a>
 
-### Tutorial part 2: RECAP Medallion Lakehouse and Entity Resolution 2
+### Tutorial video 2: RECAP Medallion Lakehouse and Entity Resolution 2
 
 <a href="https://www.youtube.com/watch?v=I2KTkrbMfZ0">
   <img
@@ -123,7 +127,7 @@ A production implementation would require additional work around security, incre
 
 ## Sample Data
 
-All data included in this repository is synthetic and created solely for demonstration purposes.
+All [data](./data/) included in this repository is synthetic and created solely for demonstration purposes.
 
 ## Licence
 
