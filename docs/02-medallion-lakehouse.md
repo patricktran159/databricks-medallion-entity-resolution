@@ -2,7 +2,7 @@
 
 Welcome! This is the first of a two-part, hands-on tutorial. Here in Part 1 you'll take two messy CSV files and turn them into clean, trusted, business-ready tables using the **medallion architecture** — bronze, silver, and gold. In [Part 2](./03-entity-resolution.md), you'll add a third source and learn **entity resolution**: how to work out when records from different systems describe the same real person.
 
-New to the *why* behind all this? Read [`01-introduction.md`](./Introduction.md) first — it explains the ideas gently, and this tutorial builds on them. If you'd rather just start building, that's fine too; we'll recap the essentials as we go.
+New to the *why* behind all this? Read [`01-introduction`](./01-introduction.md) first — it explains the ideas gently, and this tutorial builds on them. If you'd rather just start building, that's fine too; we'll recap the essentials as we go.
 
 Throughout, we'll follow one friendly customer — **John Smith** — so you can see exactly what happens to a single record at each layer.
 
