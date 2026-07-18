@@ -1,0 +1,12 @@
+customer_id,first_name,last_name,dob,email,state,created_at
+C001,John,Smith,1985-03-12,john.smith@mail.com,nsw,2024-01-15 09:30:00
+C002,  Mary ,JONES,12/07/1990,Mary.Jones@Mail.com,NSW,2024-02-01 14:05:00
+C003,Nguyen,Tran,1978-11-05,nguyen.tran78@gmail.com,VIC,2024-02-10 11:00:00
+C001,John,Smith,1985-03-12,john.smith@mail.com,NSW,2024-01-15 09:30:00
+C004,Peter,Wong,1992-06-30,peter.wong@mail,QLD,2024-03-05 08:45:00
+C005,alice,brown,20/01/1988,alice.b@mail.com,qld,2024-03-20 16:20:00
+C006,David,Lee,1969-09-09,david.lee@mail.com,SA,2024-04-02 10:10:00
+C007,Sarah,O'Connor,1995-12-01,,WA,2024-04-18 13:55:00
+C008,Michael,Chen,31/02/2001,michael.chen@mail.com,VIC,2024-05-01 09:00:00
+C009,Emma,Wilson,2000-08-14,emma.wilson@mail.com,NSW,2024-05-15 15:30:00
+C010,James,Taylor,1982-04-22,james.taylor@mail.com,TAS,2024-06-01 12:00:00

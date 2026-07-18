@@ -1,0 +1,9 @@
+contact_id,full_name,date_of_birth,email,suburb,state
+CT01,Jon Smith,1985-03-12,john.smith@mail.com,Parramatta,NSW
+CT02,Maria Jones,1990-07-12,,Newtown,NSW
+CT03,Tran Van Nguyen,1978-11-05,tvn.nguyen@corp.com.au,Footscray,VIC
+CT04,Alicia Braun,1991-05-02,alicia.braun@mail.com,Cairns,QLD
+CT05,J. Smith,,jsmith@corp.com.au,,NSW
+CT06,Emma Wilson,2000-08-14,emma.wilson@mail.com,Bondi,NSW
+CT07,David Li,1969-09-09,david.lee@mail.com,Norwood,SA
+CT08,Robert King,1975-10-30,rob.king@mail.com,Hobart,TAS
